@@ -1,3 +1,5 @@
+Run the example code at [ethereum-bn256/main.go](https://github.com/SadPencil/an-issue-of-go-bn256/blob/master/ethereum-bn256/main.go).
+
 ## The issue
 
 `p` and `q` are both type `*bn256.G1`. 
